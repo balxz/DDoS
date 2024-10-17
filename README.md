@@ -1,7 +1,7 @@
-install in termux
+> *install in termux*
 
 ```
-JS
+
 apt install git
 ```
 —
